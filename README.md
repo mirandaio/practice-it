@@ -12,3 +12,64 @@ I have been contacted by some professors letting me know that some of their
 students are using these solutions and submitting them as their own work. If
 you are given as homework to solve these problems, please do not copy these
 solutions. Your professor is aware of this repository and you will be caught!
+
+Chapter 1: Introduction to Java Programming
+-------------------------------------------
+
+|Title|Solution|
+|-----|--------|
+|[Stewie](http://practiceit.cs.washington.edu/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+1&problem=bjp3-1-e1-Stewie)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter1/Stewie.java)|
+
+Chapter 2: Primitive Data and Definite Loops
+--------------------------------------------
+
+Chapter 3: Parameters and Objects
+---------------------------------
+
+Suplement: Graphics
+-------------------
+
+Chapter 4: Conditional Execution
+--------------------------------
+
+Chapter 5: Program Logic and Indefinite Loops
+---------------------------------------------
+
+Chapter 6: File Processing
+--------------------------
+
+Chapter 7: Arrays
+-----------------
+
+Chapter 8: Classes
+------------------
+
+Chapter 9: Inheritance and Interfaces
+-------------------------------------
+
+Chapter 10: ArrayLists
+----------------------
+
+Chapter 11: Java Collections Framework
+--------------------------------------
+
+Chapter 12: Recursion
+---------------------
+
+Chapter 13: Searching and Sorting
+---------------------------------
+
+Chapter 14: Stacks and Queues
+-----------------------------
+
+Chapter 15: Implementing a Collection Class
+-------------------------------------------
+
+Chapter 16: Linked Lists
+------------------------
+
+Chapter 17: Binary Trees
+------------------------
+
+Chapter 18: Advanced Data Structures
+------------------------------------
