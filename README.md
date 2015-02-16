@@ -38,6 +38,31 @@ Chapter 1: Introduction to Java Programming
 Chapter 2: Primitive Data and Definite Loops
 --------------------------------------------
 
+|Title|Solution|
+|[displacement](http://practiceit.cs.washington.edu/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+2&problem=bjp3-2-e1-displacement)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter2/displacement.java)|
+|[loopSquares](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+2&problem=bjp3-2-e2-loopSquares)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter2/loopSquares.java)|
+|[fibonacci](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+2&problem=bjp3-2-e3-fibonacci)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter2/fibonacci.java)|
+|[starSquare](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+2&problem=bjp3-2-e4-starSquare)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter2/starSquare.java)|
+|[starTriangle](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+2&problem=bjp3-2-e5-starTriangle)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter2/starTriangle.java)|
+|[numberTriangle](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+2&problem=bjp3-2-e6-numberTriangle)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter2/numberTriangle.java)|
+|[spacedNumbers](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+2&problem=bjp3-2-e7-spacedNumbers)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter2/spacedNumbers.java)|
+|[spacesAndNumbers](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+2&problem=bjp3-2-e8-spacesAndNumbers)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter2/spacesAndNumbers.java)|
+|[waveNumbers40](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+2&problem=bjp3-2-e9-waveNumbers40)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter2/waveNumbers40.java)|
+|[numbersOutput60](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+2&problem=bjp3-2-e10-numbersOutput60)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter2/numbersOutput60.java)|
+|[numbersOutputConstant](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+2&problem=bjp3-2-e11-numbersOutputConstant)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter2/NumbersOutput.java)|
+|[nestedNumbers](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+2&problem=bjp3-2-e12-nestedNumbers)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter2/nestedNumbers.java)|
+|[nestedNumbers2](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+2&problem=bjp3-2-e13-nestedNumbers2)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter2/nestedNumbers2.java)|
+|[nestedNumbers3](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+2&problem=bjp3-2-e14-nestedNumbers3)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter2/nestedNumbers3.java)|
+|[printDesign](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+2&problem=bjp3-2-e15-printDesign)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter2/printDesign.java)|
+|[SlashFigure](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+2&problem=bjp3-2-e16-SlashFigure)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter2/SlashFigure.java)|
+|[SlashFigure2](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+2&problem=bjp3-2-e17-SlashFigure2)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter2/SlashFigure2.java)|
+|[pseudocodeWindow](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+2&problem=bjp3-2-e18-pseudocodeWindow)||
+|[Window](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+2&problem=bjp3-2-e19-Window)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter2/Window.java)|
+|[StarFigure](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+2&problem=bjp3-2-e20-StarFigure)||
+|[StarFigure2](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+2&problem=bjp3-2-e21-StarFigure2)||
+|[DollarFigure](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+2&problem=bjp3-2-e22-DollarFigure)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter2/DollarFigure.java)|
+|[DollarFigure2](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+2&problem=bjp3-2-e23-DollarFigure2)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter2/DollarFigure2.java)|
+
 Chapter 3: Parameters and Objects
 ---------------------------------
 
