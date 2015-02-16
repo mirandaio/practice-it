@@ -39,6 +39,7 @@ Chapter 2: Primitive Data and Definite Loops
 --------------------------------------------
 
 |Title|Solution|
+|-----|--------|
 |[displacement](http://practiceit.cs.washington.edu/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+2&problem=bjp3-2-e1-displacement)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter2/displacement.java)|
 |[loopSquares](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+2&problem=bjp3-2-e2-loopSquares)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter2/loopSquares.java)|
 |[fibonacci](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+2&problem=bjp3-2-e3-fibonacci)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter2/fibonacci.java)|
