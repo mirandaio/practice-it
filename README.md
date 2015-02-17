@@ -67,6 +67,31 @@ Chapter 2: Primitive Data and Definite Loops
 Chapter 3: Parameters and Objects
 ---------------------------------
 
+|Title|Solution|
+|-----|--------|
+|[printNumbers](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+3&problem=bjp3-3-e1-printNumbers)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter3/printNumbers.java)|
+|[printPowersOf2](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+3&problem=bjp3-3-e2-printPowersOf2)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter3/printPowersOf2.java)|
+|[printPowersOfN](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+3&problem=bjp3-3-e3-printPowersOfN)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter3/printPowersOfN.java)|
+|[printSquare](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+3&problem=bjp3-3-e4-printSquare)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter3/printSquare.java)|
+|[printGrid](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+3&problem=bjp3-3-e5-printGrid)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter3/printGrid.java)|
+|[largerAbsVal](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+3&problem=bjp3-3-e6-largerAbsVal)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter3/largerAbsVal.java)|
+|[largestAbsVal](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+3&problem=bjp3-3-e7-largestAbsVal)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter3/largestAbsVal.java)|
+|[quadratic](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+3&problem=bjp3-3-e8-quadratic)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter3/quadratic.java)|
+|[lastDigit](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+3&problem=bjp3-3-e9-lastDigit)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter3/lastDigit.java)|
+|[area](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+3&problem=bjp3-3-e10-area)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter3/area.java)|
+|[distance](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+3&problem=bjp3-3-e11-distance)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter3/distance.java)|
+|[scientific](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+3&problem=bjp3-3-e12-scientific)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter3/scientific.java)|
+|[pay](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+3&problem=bjp3-3-e13-pay)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter3/pay.java)|
+|[cylinderSurfaceArea](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+3&problem=bjp3-3-e14-cylinderSurfaceArea)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter3/cylinderSurfaceArea.java)|
+|[sphereVolume](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+3&problem=bjp3-3-e15-sphereVolume)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter3/sphereVolume.java)|
+|[triangleArea](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+3&problem=bjp3-3-e16-triangleArea)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter3/triangleArea.java)|
+|[padString](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+3&problem=bjp3-3-e17-padString)||
+|[vertical](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+3&problem=bjp3-3-e18-vertical)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter3/vertical.java)|
+|[printReverse](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+3&problem=bjp3-3-e19-printReverse)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter3/printReverse.java)|
+|[inputBirthday](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+3&problem=bjp3-3-e20-inputBirthday)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter3/inputBirthday.java)|
+|[processName](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+3&problem=bjp3-3-e21-processName)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter3/processName.java)|
+|[CollegeAdmit](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+3&problem=bjp3-3-e22-CollegeAdmit)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter3/CollegeAdmit.java)|
+
 Suplement: Graphics
 -------------------
 
