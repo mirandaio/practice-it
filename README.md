@@ -95,6 +95,24 @@ Chapter 3: Parameters and Objects
 Suplement: Graphics
 -------------------
 
+|Title|Solution|
+|-----|--------|
+|[MickeyBox](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Supplement+3G&problem=bjp3-3g-e1-MickeyBox)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/graphics/MickeyBox.java)|
+|[MickeyBox2](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Supplement+3G&problem=bjp3-3g-e2-MickeyBox2)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/graphics/MickeyBox2.java)|
+|[Face](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Supplement+3G&problem=bjp3-3g-e3-Face)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/graphics/Face.java)|
+|[Face2](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Supplement+3G&problem=bjp3-3g-e4-Face2)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/graphics/Face2.java)|
+|[ShowDesign](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Supplement+3G&problem=bjp3-3g-e5-ShowDesign)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/graphics/ShowDesign.java)|
+|[ShowDesign2](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Supplement+3G&problem=bjp3-3g-e6-ShowDesign2)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/graphics/ShowDesign2.java)|
+|[Squares](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Supplement+3G&problem=bjp3-3g-e7-Squares)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/graphics/Squares.java)|
+|[Squares2](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Supplement+3G&problem=bjp3-3g-e8-Squares2)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/graphics/Squares2.java)|
+|[Squares3](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Supplement+3G&problem=bjp3-3g-e9-Squares3)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/graphics/Squares3.java)|
+|[Stairs](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Supplement+3G&problem=bjp3-3g-e10-Stairs)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/graphics/Stairs.java)|
+|[Stairs2](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Supplement+3G&problem=bjp3-3g-e11a-Stairs2)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/graphics/Stairs2.java)|
+|[Stairs3](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Supplement+3G&problem=bjp3-3g-e11b-Stairs3)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/graphics/Stairs3.java)|
+|[Stairs4](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Supplement+3G&problem=bjp3-3g-e11c-Stairs4)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/graphics/Stairs4.java)|
+|[Triangle](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Supplement+3G&problem=bjp3-3g-e12-Triangle)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/graphics/Triangle.java)|
+|[Spiral](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Supplement+3G&problem=bjp3-3g-e13-Spiral)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/graphics/Spiral.java)|
+
 Chapter 4: Conditional Execution
 --------------------------------
 
