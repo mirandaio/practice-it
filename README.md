@@ -116,6 +116,30 @@ Suplement: Graphics
 Chapter 4: Conditional Execution
 --------------------------------
 
+|Title|Solution|
+|-----|--------|
+|[fractionSum](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+4&problem=bjp3-4-e1-fractionSum)||
+|[repl](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+4&problem=bjp3-4-e2-repl)||
+|[season](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+4&problem=bjp3-4-e3-season)||
+|[daysInMonth](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+4&problem=bjp3-4-e4-daysInMonth)||
+|[pow](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+4&problem=bjp3-4-e5-pow)||
+|[printRange](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+4&problem=bjp3-4-e6-printRange)||
+|[xo](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+4&problem=bjp3-4-e7-xo)||
+|[smallestLargest](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+4&problem=bjp3-4-e8-smallestLargest)||
+|[evenSumMax](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+4&problem=bjp3-4-e9-evenSumMax)||
+|[printGPA](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+4&problem=bjp3-4-e10-printGPA)||
+|[longestName](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+4&problem=bjp3-4-e11-longestName)||
+|[printTriangleType](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+4&problem=bjp3-4-e12-printTriangleType)||
+|[average](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+4&problem=bjp3-4-e13-average)||
+|[pow2](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+4&problem=bjp3-4-e14-pow2)||
+|[getGrade](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+4&problem=bjp3-4-e15-getGrade)||
+|[printPalindrome](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+4&problem=bjp3-4-e16-printPalindrome)||
+|[swapPairs](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+4&problem=bjp3-4-e17-swapPairs)||
+|[wordCount](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+4&problem=bjp3-4-e18-wordCount)||
+|[quadrant](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+4&problem=bjp3-4-e19-quadrant)||
+|[numUnique](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+4&problem=bjp3-4-e20-numUnique)||
+|[perfectNumbers](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+4&problem=bjp3-4-e21-perfectNumbers)||
+
 Chapter 5: Program Logic and Indefinite Loops
 ---------------------------------------------
 
