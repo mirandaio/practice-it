@@ -173,6 +173,28 @@ Chapter 5: Program Logic and Indefinite Loops
 Chapter 6: File Processing
 --------------------------
 
+|Title|Solution|
+|-----|--------|
+|[boyGirl](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+6&problem=bjp3-6-e1-boyGirl)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter6/boyGirl.java)|
+|[evenNumbers](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+6&problem=bjp3-6-e2-evenNumbers)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter6/evenNumbers.java)|
+|[negativeSum](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+6&problem=bjp3-6-e3-negativeSum)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter6/negativeSum.java)|
+|[countCoins](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+6&problem=bjp3-6-e4-countCoins)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter6/countCoins.java)|
+|[collpaseSpaces](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+6&problem=bjp3-6-e5-collapseSpaces)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter6/collapseSpaces.java)|
+|[readEntireFile](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+6&problem=bjp3-6-e6-readEntireFile)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter6/readEntireFile.java)|
+|[flipLines](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+6&problem=bjp3-6-e7-flipLines)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter6/flipLines.java)|
+|[doubleSpace](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+6&problem=bjp3-6-e8-doubleSpace)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter6/doubleSpace.java)|
+|[wordWrap](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+6&problem=bjp3-6-e9-wordWrap)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter6/wordWrap.java)|
+|[wordWrap2](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+6&problem=bjp3-6-e10-wordWrap2)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter6/wordWrap2.java)|
+|[wordWrap3](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+6&problem=bjp3-6-e11-wordWrap3)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter6/wordWrap3.java)|
+|[stripHtmlTags](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+6&problem=bjp3-6-e12-stripHtmlTags)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter6/stripHtmlTags.java)|
+|[stripComments](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+6&problem=bjp3-6-e13-stripComments)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter6/stripComments.java)|
+|[printDuplicates](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+6&problem=bjp3-6-e14-printDuplicates)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter6/printDuplicates.java)|
+|[coinFlip](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+6&problem=bjp3-6-e15-coinFlip)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter6/coinFlip.java)|
+|[mostCommonNames](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+6&problem=bjp3-6-e16-mostCommonNames)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter6/mostCommonNames.java)|
+|[inputStats](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+6&problem=bjp3-6-e17-inputStats)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter6/inputStats.java)|
+|[plusScores](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+6&problem=bjp3-6-e18-plusScores)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter6/plusScores.java)|
+|[leetSpeak](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+6&problem=bjp3-6-e19-leetSpeak)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter6/leetSpeak.java)|
+
 Chapter 7: Arrays
 -----------------
 
