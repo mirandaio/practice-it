@@ -143,6 +143,33 @@ Chapter 4: Conditional Execution
 Chapter 5: Program Logic and Indefinite Loops
 ---------------------------------------------
 
+|Title|Solution|
+|-----|--------|
+|[showTwos](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+5&problem=bjp3-5-e1-showTwos)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter5/showTwos.java)|
+|[gcd](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+5&problem=bjp3-5-e2-gcd)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter5/gcd.java)|
+|[toBinary](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+5&problem=bjp3-5-e3-toBinary)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter5/toBinary.java)|
+|[randomX](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+5&problem=bjp3-5-e4-randomX)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter5/randomX.java)|
+|[randomLines](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+5&problem=bjp3-5-e5-randomLines)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter5/randomLines.java)|
+|[makeGuesses](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+5&problem=bjp3-5-e6-makeGuesses)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter5/makeGuesses.java)|
+|[diceSum](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+5&problem=bjp3-5-e7-diceSum)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter5/diceSum.java)|
+|[randomWalk](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+5&problem=bjp3-5-e8-randomWalk)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter5/randomWalk.java)|
+|[printFactors](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+5&problem=bjp3-5-e9-printFactors)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter5/printFactors.java)|
+|[hopscotch](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+5&problem=bjp3-5-e10-hopscotch)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter5/hopscotch.java)|
+|[threeHeads](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+5&problem=bjp3-5-e11-threeHeads)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter5/threeHeads.java)|
+|[printAverage](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+5&problem=bjp3-5-e12-printAverage)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter5/printAverage.java)|
+|[consecutive](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+5&problem=bjp3-5-e13-consecutive)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter5/consecutive.java)|
+|[hasMidpoint](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+5&problem=bjp3-5-e14-hasMidpoint)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter5/hasMidpoint.java)|
+|[dominant](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+5&problem=bjp3-5-e15-dominant)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter5/dominant.java)|
+|[anglePairs](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+5&problem=bjp3-5-e16-anglePairs)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter5/anglePairs.java)|
+|[monthApart](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+5&problem=bjp3-5-e17-monthApart)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter5/monthApart.java)|
+|[digitSum](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+5&problem=bjp3-5-e18-digitSum)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter5/digitSum.java)|
+|[firstDigit](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+5&problem=bjp3-5-e19-firstDigit)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter5/firstDigit.java)|
+|[digitRange](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+5&problem=bjp3-5-e20-digitRange)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter5/digitRange.java)|
+|[swapDigitPairs](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+5&problem=bjp3-5-e21-swapDigitPairs)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter5/swapDigitPairs.java)|
+|[allDigitsOdd](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+5&problem=bjp3-5-e22-allDigitsOdd)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter5/allDigitsOdd.java)|
+|[hasAnOddDigit](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+5&problem=bjp3-5-e23-hasAnOddDigit)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter5/hasAnOddDigit.java)|
+|[isAllVowels](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+5&problem=bjp3-5-e24-isAllVowels)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter5/isAllVowels.java)|
+
 Chapter 6: File Processing
 --------------------------
 
