@@ -198,6 +198,29 @@ Chapter 6: File Processing
 Chapter 7: Arrays
 -----------------
 
+|Title|Solution|
+|-----|--------|
+|[lastIndexOf](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+7&problem=bjp3-7-e1-lastIndexOf)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter7/lastIndexOf.java)|
+|[range](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+7&problem=bjp3-7-e2-range)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter7/range.java)|
+|[countInRange](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+7&problem=bjp3-7-e3-countInRange)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter7/countInRange.java)|
+|[isSorted](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+7&problem=bjp3-7-e4-isSorted)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter7/isSorted.java)|
+|[mode](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+7&problem=bjp3-7-e5-mode)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter7/mode.java)|
+|[stdev](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+7&problem=bjp3-7-e6-stdev)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter7/stdev.java)|
+|[kthLargest](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+7&problem=bjp3-7-e7-kthLargest)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter7/kthLargest.java)|
+|[median](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+7&problem=bjp3-7-e8-median)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter7/median.java)|
+|[minGap](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+7&problem=bjp3-7-e9-minGap)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter7/minGap.java)|
+|[percentEven](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+7&problem=bjp3-7-e10-percentEven)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter7/percentEven.java)|
+|[isUnique](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+7&problem=bjp3-7-e11-isUnique)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter7/isUnique.java)|
+|[priceIsRight](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+7&problem=bjp3-7-e12-priceIsRight)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter7/priceIsRight.java)|
+|[longestSortedSequence](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+7&problem=bjp3-7-e13-longestSortedSequence)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter7/longestSortedSequence.java)|
+|[contains](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+7&problem=bjp3-7-e14-contains)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter7/contains.java)|
+|[collapse](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+7&problem=bjp3-7-e15-collapse)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter7/collapse.java)|
+|[append](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+7&problem=bjp3-7-e16-append)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter7/append.java)|
+|[vowelCount](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+7&problem=bjp3-7-e17-vowelCount)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter7/vowelCount.java)|
+|[wordLengths](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+7&problem=bjp3-7-e18-wordLengths)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter7/wordLengths.java)|
+|[matrixAdd](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+7&problem=bjp3-7-e19-matrixAdd)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter7/matrixAdd.java)|
+|[isMagicSquare](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+7&problem=bjp3-7-e20-isMagicSquare)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter7/isMagicSquare.java)|
+
 Chapter 8: Classes
 ------------------
 
