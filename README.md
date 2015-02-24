@@ -224,6 +224,31 @@ Chapter 7: Arrays
 Chapter 8: Classes
 ------------------
 
+|Title|Solution|
+|-----|--------|
+|[quadrantPoint](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+8&problem=bjp3-8-e1-quadrantPoint)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter8/quadrantPoint.java)|
+|[flipPoint](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+8&problem=bjp3-8-e2-flipPoint)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter8/flipPoint.java)|
+|[manhattanDistancePoint](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+8&problem=bjp3-8-e3-manhattanDistancePoint)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter8/manhattanDistancePoint.java)|
+|[isVertical](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+8&problem=bjp3-8-e4-isVerticalPoint)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter8/isVerticalPoint.java)|
+|[slopePoint](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+8&problem=bjp3-8-e5-slopePoint)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter8/slopePoint.java)|
+|[isCollinearPoint](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+8&problem=bjp3-8-e6-isCollinearPoint)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter8/isCollinearPoint.java)|
+|[addTimeSpan](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+8&problem=bjp3-8-e7-addTimeSpan)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter8/addTimeSpan.java)|
+|[subtractTimeSpan](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+8&problem=bjp3-8-e8-subtractTimeSpan)||
+|[scaleTimeSpan](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+8&problem=bjp3-8-e9-scaleTimeSpan)||
+|[clearStock](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+8&problem=bjp3-8-e10-clearStock)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter8/clearStock.java)|
+|[transactionFeeBankAccount](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+8&problem=bjp3-8-e11-transactionFeeBankAccount)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter8/transactionFeeBankAccount.java)|
+|[toStringBankAccount](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+8&problem=bjp3-8-e12-toStringBankAccount)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter8/toStringBankAccount.java)|
+|[transferBankAccount](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+8&problem=bjp3-8-e13-transferBankAccount)||
+|[classLine](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+8&problem=bjp3-8-e14-classLine)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter8/classLine.java)|
+|[getSlopeLine](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+8&problem=bjp3-8-e15-getSlopeLine)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter8/getSlopeLine.java)|
+|[constructorLine](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+8&problem=bjp3-8-e16-constructorLine)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter8/constructorLine.java)|
+|[isCollinearLine](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+8&problem=bjp3-8-e17-isCollinearLine)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter8/isCollinearLine.java)|
+|[classRectangle](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+8&problem=bjp3-8-e18-classRectangle)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter8/classRectangle.java)|
+|[constructorRectangle](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+8&problem=bjp3-8-e19-constructorRectangle)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter8/constructorRectangle.java)|
+|[containsRectangle](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+8&problem=bjp3-8-e20-containsRectangle)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter8/containsRectangle.java)|
+|[unionRectangle](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+8&problem=bjp3-8-e21-unionRectangle)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter8/unionRectangle.java)|
+|[intersectionRectangle](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+8&problem=bjp3-8-e22-intersectionRectangle)||
+
 Chapter 9: Inheritance and Interfaces
 -------------------------------------
 
