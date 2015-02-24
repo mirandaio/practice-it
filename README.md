@@ -247,7 +247,7 @@ Chapter 8: Classes
 |[constructorRectangle](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+8&problem=bjp3-8-e19-constructorRectangle)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter8/constructorRectangle.java)|
 |[containsRectangle](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+8&problem=bjp3-8-e20-containsRectangle)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter8/containsRectangle.java)|
 |[unionRectangle](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+8&problem=bjp3-8-e21-unionRectangle)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter8/unionRectangle.java)|
-|[intersectionRectangle](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+8&problem=bjp3-8-e22-intersectionRectangle)||
+|[intersectionRectangle](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+8&problem=bjp3-8-e22-intersectionRectangle)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter8/intersection.java)|
 
 Chapter 9: Inheritance and Interfaces
 -------------------------------------
