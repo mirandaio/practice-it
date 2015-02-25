@@ -252,6 +252,16 @@ Chapter 8: Classes
 Chapter 9: Inheritance and Interfaces
 -------------------------------------
 
+|Title|Solution|
+|-----|--------|
+|[Marketer](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+9&problem=bjp3-9-e1-Marketer)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter9/Marketer.java)|
+|[Janitor](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+9&problem=bjp3-9-e2-Janitor)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter9/Janitor.java)|
+|[HarvardLawyer](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+9&problem=bjp3-9-e3-HarvardLawyer)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter9/HarvardLawyer.java)|
+|[MonsterTruck](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+9&problem=bjp3-9-e4-MonsterTruck)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter9/MonsterTruck.java)|
+|[MinMaxAccount](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+9&problem=bjp3-9-e9-MinMaxAccount)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter9/MinMaxAccount.java)|
+|[DiscountBill](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+9&problem=bjp3-9-e10-DiscountBill)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter9/DiscountBill.java)|
+|[FilteredAccount](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+9&problem=bjp3-9-e11-FilteredAccount)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter9/FilteredAccount.java)|
+
 Chapter 10: ArrayLists
 ----------------------
 
