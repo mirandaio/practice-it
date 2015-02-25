@@ -265,6 +265,22 @@ Chapter 9: Inheritance and Interfaces
 Chapter 10: ArrayLists
 ----------------------
 
+|Title|Solution|
+|-----|--------|
+|[swapPairs](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+10&problem=bjp3-10-e2-swapPairs)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter10/swapPairs.java)|
+|[removeEvenLength](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+10&problem=bjp3-10-e3-removeEvenLength)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter10/removeEvenLength.java)|
+|[doubleList](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+10&problem=bjp3-10-e4-doubleList)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter10/doubleList.java)|
+|[minToFront](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+10&problem=bjp3-10-e6-minToFront)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter10/minToFront.java)|
+|[removeDuplicates](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+10&problem=bjp3-10-e7-removeDuplicates)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter10/removeDuplicates.java)|
+|[removeInRange](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+10&problem=bjp3-10-e10-removeInRange)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter10/removeInRange.java)|
+|[stutter](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+10&problem=bjp3-10-e11-stutter)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter10/stutter.java)|
+|[markLength4](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+10&problem=bjp3-10-e12-markLength4)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter10/markLength4.java)|
+|[removeShorterStrings](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+10&problem=bjp3-10-e14-removeShorterStrings)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter10/removeShorterStrings.java)|
+|[filterRange](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+10&problem=bjp3-10-e15-filterRange)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter10/filterRange.java)|
+|[interleave](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+10&problem=bjp3-10-e17-interleave)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter10/interleave.java)|
+|[ComparablePoint](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+10&problem=bjp3-10-e18-ComparablePoint)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter10/ComparablePoint.java)|
+|[ComparableCalendarDate](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+10&problem=bjp3-10-e20-ComparableCalendarDate)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter10/ComparableCalendarDate.java)|
+
 Chapter 11: Java Collections Framework
 --------------------------------------
 
