@@ -284,6 +284,22 @@ Chapter 10: ArrayLists
 Chapter 11: Java Collections Framework
 --------------------------------------
 
+|Title|Solution|
+|-----|--------|
+|[alternate](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+11&problem=bjp3-11-e2-alternate)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter11/alternate.java)|
+|[removeInRange](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+11&problem=bjp3-11-e3-removeInRange)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter11/removeInRange.java)|
+|[countUnique](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+11&problem=bjp3-11-e6-countUnique)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter11/countUnique.java)|
+|[countCommon](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+11&problem=bjp3-11-e7-countCommon)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter11/countCommon.java)|
+|[maxLength](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+11&problem=bjp3-11-e8-maxLength)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter11/maxLength.java)|
+|[hasOdd](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+11&problem=bjp3-11-e9-hasOdd)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter11/hasOdd.java)|
+|[removeEvenLength](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+11&problem=bjp3-11-e10-removeEvenLength)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter11/removeEvenLength.java)|
+|[contains3](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+11&problem=bjp3-11-e12-contains3)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter11/contains3.java)|
+|[isUnique](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+11&problem=bjp3-11-e13-isUnique)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter11/isUnique.java)|
+|[intersect](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+11&problem=bjp3-11-e14-intersect)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter11/intersect.java)|
+|[maxOccurrences](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+11&problem=bjp3-11-e15-maxOccurrences)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter11/maxOccurrences.java)|
+|[reverse](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+11&problem=bjp3-11-e18-reverse)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter11/reverse.java)|
+|[rarest](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+11&problem=bjp3-11-e19-rarest)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter11/rarest.java)|
+
 Chapter 12: Recursion
 ---------------------
 
