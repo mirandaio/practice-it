@@ -303,6 +303,26 @@ Chapter 11: Java Collections Framework
 Chapter 12: Recursion
 ---------------------
 
+|Title|Solution|
+|-----|--------|
+|[starString](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+12&problem=bjp3-12-e1-starString)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter12/starString.java)|
+|[writeNums](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+12&problem=bjp3-12-e2-writeNums)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter12/writeNums.java)|
+|[writeSequence](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+12&problem=bjp3-12-e3-writeSequence)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter12/writeSequence.java)|
+|[writeSquares](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+12&problem=bjp3-12-e6-writeSquares)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter12/writeSquares.java)|
+|[writeChars](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+12&problem=bjp3-12-e7-writeChars)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter12/writeChars.java)|
+|[multiplyEvens](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+12&problem=bjp3-12-e8-multiplyEvens)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter12/multiplyEvens.java)|
+|[sumTo](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+12&problem=bjp3-12-e9-sumTo)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter12/sumTo.java)|
+|[digitMatch](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+12&problem=bjp3-12-e10-digitMatch)|[digitMatch](https://github.com/mirandaio/practice-it/blob/master/src/chapter12/digitMatch.java)|
+|[repeat](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+12&problem=bjp3-12-e11-repeat)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter12/repeat.java)|
+|[isReverse](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+12&problem=bjp3-12-e12-isReverse)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter12/isReverse.java)|
+|[indexOf](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+12&problem=bjp3-12-e13-indexOf)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter12/indexOf.java)|
+|[evenDigits](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+12&problem=bjp3-12-e14-evenDigits)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter12/evenDigits.java)|
+|[waysToClimb](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+12&problem=bjp3-12-e18-waysToClimb)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter12/waysToClimb.java)|
+|[countBinary](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+12&problem=bjp3-12-e19-countBinary)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter12/countBinary.java)|
+|[subsets](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+12&problem=bjp3-12-e20-subsets)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter12/subsets.java)|
+|[maxSum](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+12&problem=bjp3-12-e21-maxSum)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter12/maxSum.java)|
+|[printSquares](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+12&problem=bjp3-12-e22-printSquares)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter12/printSquares.java)|
+
 Chapter 13: Searching and Sorting
 ---------------------------------
 
