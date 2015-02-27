@@ -329,6 +329,29 @@ Chapter 13: Searching and Sorting
 Chapter 14: Stacks and Queues
 -----------------------------
 
+|Title|Solution|
+|-----|--------|
+|[splitStack](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+14&problem=bjp3-14-e1-splitStack)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter14/splitStack.java)|
+|[stutter](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+14&problem=bjp3-14-e2-stutter)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter14/stutter.java)|
+|[copyStack](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+14&problem=bjp3-14-e3-copyStack)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter14/copyStack.java)|
+|[collapse](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+14&problem=bjp3-14-e4-collapse)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter14/collapse.java)|
+|[equals](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+14&problem=bjp3-14-e5-equals)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter14/equals.java)|
+|[rearrange](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+14&problem=bjp3-14-e6-rearrange)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter14/rearrange.java)|
+|[reverseHalf](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+14&problem=bjp3-14-e7-reverseHalf)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter14/reverseHalf.java)|
+|[isPalindrome](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+14&problem=bjp3-14-e8-isPalindrome)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter14/isPalindrome.java)|
+|[switchPairs](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+14&problem=bjp3-14-e9-switchPairs)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter14/switchPairs.java)|
+|[isConsecutive](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+14&problem=bjp3-14-e10-isConsecutive)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter14/isConsecutive.java)|
+|[reorder](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+14&problem=bjp3-14-e11-reorder)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter14/reorder.java)|
+|[shift](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+14&problem=bjp3-14-e12-shift)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter14/shift.java)|
+|[expunge](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+14&problem=bjp3-14-e13-expunge)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter14/expunge.java)|
+|[reverseFirstK](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+14&problem=bjp3-14-e14-reverseFirstK)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter14/reverseFirstK.java)|
+|[isSorted](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+14&problem=bjp3-14-e15-isSorted)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter14/isSorted.java)|
+|[mirror](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+14&problem=bjp3-14-e16-mirror)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter14/mirror.java)|
+|[compressDuplicates](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+14&problem=bjp3-14-e17-compressDuplicates)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter14/compressDuplicates.java)|
+|[mirrorHalves](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+14&problem=bjp3-14-e18-mirrorHalves)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter14/mirrorHalves.java)|
+|[removeMin](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+14&problem=bjp3-14-e19-removeMin)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter14/removeMin.java)|
+|[interleave](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+14&problem=bjp3-14-e20-interleave)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter14/interleave.java)|
+
 Chapter 15: Implementing a Collection Class
 -------------------------------------------
 
