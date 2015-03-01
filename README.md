@@ -355,6 +355,17 @@ Chapter 14: Stacks and Queues
 Chapter 15: Implementing a Collection Class
 -------------------------------------------
 
+|Title|Solution|
+|-----|--------|
+|[runningTotal](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+15&problem=bjp3-15-e5-runningTotal)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter15/runningTotal.java)|
+|[isPairwiseSorted](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+15&problem=bjp3-15-e7-isPairwiseSorted)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter15/isPairwiseSorted.java)|
+|[longestSortedSequence](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+15&problem=bjp3-15-e10-longestSortedSequence)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter15/longestSortedSequence.java)|
+|[removeFront](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+15&problem=bjp3-15-e12-removeFront)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter15/removeFront.java)|
+|[removeAll](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+15&problem=bjp3-15-e13-removeAll)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter15/removeAll.java)|
+|[printInversions](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+15&problem=bjp3-15-e14-printInversions)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter15/printInversions.java)|
+|[mirror](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+15&problem=bjp3-15-e15-mirror)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter15/mirror.java)|
+|[stretch](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+15&problem=bjp3-15-e17-stretch)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter15/stretch.java)|
+
 Chapter 16: Linked Lists
 ------------------------
 
