@@ -369,6 +369,30 @@ Chapter 15: Implementing a Collection Class
 Chapter 16: Linked Lists
 ------------------------
 
+|Title|Solution|
+|-----|--------|
+|[set](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+16&problem=bjp3-16-e1-set)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter16/set.java)|
+|[min](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+16&problem=bjp3-16-e2-min)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter16/min.java)|
+|[isSorted](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+16&problem=bjp3-16-e3-isSorted)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter16/isSorted.java)|
+|[lastIndexOf](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+16&problem=bjp3-16-e4-lastIndexOf)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter16/lastIndexOf.java)|
+|[countDuplicates](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+16&problem=bjp3-16-e5-countDuplicates)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter16/countDuplicates.java)|
+|[hasTwoConsecutive](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+16&problem=bjp3-16-e6-hasTwoConsecutive)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter16/hasTwoConsecutive.java)|
+|[deleteBack](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+16&problem=bjp3-16-e7-deleteBack)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter16/deleteBack.java)|
+|[switchPairs](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+16&problem=bjp3-16-e8-switchPairs)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter16/switchPairs.java)|
+|[stutter](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+16&problem=bjp3-16-e9-stutter)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter16/stutter.java)|
+|[stretch](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+16&problem=bjp3-16-e10-stretch)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter16/stretch.java)|
+|[compress](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+16&problem=bjp3-16-e11-compress)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter16/compress.java)|
+|[split](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+16&problem=bjp3-16-e12-split)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter16/split.java)|
+|[transferFrom](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+16&problem=bjp3-16-e13-transferFrom)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter16/transferFrom.java)|
+|[removeAll](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+16&problem=bjp3-16-e14-removeAll)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter16/removeAll.java)|
+|[equals](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+16&problem=bjp3-16-e15-equals)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter16/equals2.java)|
+|[removeEvens](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+16&problem=bjp3-16-e16-removeEvens)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter16/removeEvens.java)|
+|[removeRange](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+16&problem=bjp3-16-e17-removeRange)||
+|[doubleList](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+16&problem=bjp3-16-e18-doubleList)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter16/doubleList.java)|
+|[rotate](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+16&problem=bjp3-16-e19-rotate)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter16/rotate.java)|
+|[shift](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+16&problem=bjp3-16-e20-shift)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter16/shift.java)|
+|[reverse](http://practiceit.cs.washington.edu/practiceit/problem.jsp?category=Building+Java+Programs%2C+3rd+edition%2FBJP3+Chapter+16&problem=bjp3-16-e21-reverse)|[Java](https://github.com/mirandaio/practice-it/blob/master/src/chapter16/reverse.java)|
+
 Chapter 17: Binary Trees
 ------------------------
 
