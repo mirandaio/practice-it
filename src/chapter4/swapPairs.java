@@ -1,7 +1,3 @@
-/* Write a method called swapPairs that accepts a String as a parameter and 
- * returns that String with each pair of adjacent letters reversed. If the 
- * String has an odd number of letters, the last letter is unchanged.
- */
 public String swapPairs(String str) {
     char[] arr = str.toCharArray();
     

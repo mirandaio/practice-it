@@ -1,7 +1,3 @@
-/* Write a method lastIndexOf that accepts an integer value as a parameter and 
- * that returns the index in the list of the last occurrence of that value, 
- * or -1 if the value is not found in the list.
- */
 public int lastIndexOf(int val) {
     ListNode current = front;
     int index = -1;

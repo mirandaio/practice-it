@@ -1,10 +1,3 @@
-/* Write a method equals that takes as parameters two stacks of integers and 
- * returns true if the two stacks are equal and that returns false otherwise. 
- * To be considered equal, the two stacks would have to store the same 
- * sequence of integer values in the same order. Your method is to examine the 
- * two stacks but must return them to their original state before terminating. 
- * You may use one stack as auxiliary storage.
- */
 public boolean equals(Stack<Integer> s1, Stack<Integer> s2) {
     int size1 = s1.size();
     int size2 = s2.size();

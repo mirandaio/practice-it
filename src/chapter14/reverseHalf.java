@@ -1,9 +1,3 @@
-/* Write a method reverseHalf that reverses the order of half of the elements 
- * of a Queue of integers. Your method should reverse the order of all the 
- * elements in odd-numbered positions (position 1, 3, 5, etc.) assuming that 
- * the first value in the queue has position 0. You may use a single stack as 
- * auxiliary storage.
- */
 public void reverseHalf(Queue<Integer> q) {
     Stack<Integer> s = new Stack<Integer>();
     int size = q.size();

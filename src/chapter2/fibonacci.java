@@ -1,6 +1,3 @@
-/* Write a piece of code that uses a for loop to compute and print the first 
- * 12 Fibonacci numbers.
- */
 int f0 = 1;
 int f1 = 1;
 

@@ -1,8 +1,3 @@
-/* Modify your Squares2 program from the previous exercise into a new class 
- * Squares3 that draws the following figures. Parameterize your program so 
- * that the figures have the sizes shown below. The top-right figure has size 
- * 50, and the bottom-right figure has size 180.
- */
 public class Squares3 {
     public static void main(String[] args) {
         DrawingPanel panel = new DrawingPanel(400, 300);

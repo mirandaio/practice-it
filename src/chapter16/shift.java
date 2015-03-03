@@ -1,7 +1,3 @@
-/* Write a method shift that rearranges the elements of a list of integers by 
- * moving to the end of the list all values that are in odd-numbered positions 
- * and otherwise preserving list order.
- */
 public void shift() {
     if(front == null)
         return;

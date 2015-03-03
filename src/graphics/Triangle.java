@@ -1,10 +1,3 @@
-/* Using the DrawingPanel class, write a Java class named Triangle that 
- * produces the following figure:
- * - size: 600x200
- * - background color: yellow
- * - line color: blue
- * - vertical spacing between lines: 10 px
- */
 public class Triangle {
     public static void main(String[] args) {
         DrawingPanel panel = new DrawingPanel(600, 200);

@@ -1,6 +1,3 @@
-/* Write a method stutter that doubles the size of a list by replacing every 
- * integer in the list with two of that integer.
- */
 public void stutter() {
     if(front == null)
         return;

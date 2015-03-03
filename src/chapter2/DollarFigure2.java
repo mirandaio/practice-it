@@ -1,7 +1,3 @@
-/* Modify your DollarFigure program from the previous exercise to become a new 
- * program called DollarFigure2 that uses a global constant for the figure's 
- * height.
- */
 public class DollarFigure2 {
     public static final int HEIGHT = 5;
     

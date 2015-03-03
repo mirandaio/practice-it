@@ -1,12 +1,3 @@
-/* Write a method isConsecutive that takes a stack of integers as a parameter 
- * and that returns whether or not the stack contains a sequence of 
- * consecutive integers starting from the bottom of the stack (returning true 
- * if it does, returning false if it does not). Your method must restore the 
- * stack so that it stores the same sequence of values after the call as it 
- * did before. Any stack with fewer than two values should be considered to be 
- * a list of consecutive integers. You may use one queue as auxiliary storage 
- * to solve this problem.
- */
 public boolean isConsecutive(Stack<Integer> s) {
     if(s.size() < 2)
         return true;

@@ -1,8 +1,3 @@
-/* Write a method removeMin that accepts a Stack of integers as a parameter 
- * and removes and returns the smallest value from the stack. If the minimum 
- * value appears more than once, all occurrences of it should be removed. You 
- * may use one queue as auxiliary storage.
- */
 public int removeMin(Stack<Integer> s) {
     Queue<Integer> q = new LinkedList<Integer>();
     int min = s.peek();

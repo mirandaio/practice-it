@@ -1,9 +1,3 @@
-/* Write a method named swapDigitPairs that accepts an integer n as a parameter
- * and returns a new integer whose value is similar to n's but with each pair 
- * of digits swapped in order. If the number contains an odd number of digits,
- * leave the leftmost digit in its original place. You should solve this
- * problem without using a String.
- */
 public int swapDigitPairs(int n) {
     int result = 0;
     int m = 1;

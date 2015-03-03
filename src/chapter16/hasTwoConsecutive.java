@@ -1,7 +1,3 @@
-/* Write a method hasTwoConsecutive that returns whether or not a list of 
- * integers has two adjacent numbers that are consecutive integers (true if 
- * such a pair exists and false otherwise).
- */
 public boolean hasTwoConsecutive() {
     if(front == null)
         return false;

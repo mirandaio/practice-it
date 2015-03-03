@@ -1,8 +1,3 @@
-/* Write a method called percentEven that accepts an array of integers as a 
- * parameter and returns the percentage of even numbers in the array as a real 
- * number.  If the array contains no even elements or no elements at all, 
- * return 0.0.
- */
 public double percentEven(int[] a) {
     if(a.length == 0)
         return 0.0;

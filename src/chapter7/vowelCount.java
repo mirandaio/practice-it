@@ -1,10 +1,3 @@
-/* Write a static method named vowelCount that accepts a String as a parameter 
- * and produces and returns an array of integers representing the counts of 
- * each vowel in the String. The array returned by your method should hold 5 
- * elements: the first is the count of As, the second is the count of Es, the 
- * third Is, the fourth Os, and the fifth Us. Assume that the string contains 
- * no uppercase letters.
- */
 public int[] vowelCount(String str) {
     int[] counts = new int[5];
     

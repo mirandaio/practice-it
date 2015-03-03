@@ -1,9 +1,3 @@
-/* Write a method called isMagicSquare that accepts a two-dimensional array of 
- * integers as a parameter and returns true if it is a magic square. A square 
- * matrix is a magic square if it is square in shape (same number of rows as 
- * columns, and every row the same length), and all of its row, column, and 
- * diagonal sums are equal.
- */
 public boolean isMagicSquare(int[][] a) {
     if(a.length == 0)
         return true;

@@ -1,11 +1,3 @@
-/* Write a method named boyGirl that accepts a Scanner as a parameter. The 
- * Scanner is reading its input from a file containing a series of names 
- * followed by integers. The names alternate between boys' names and girls' 
- * names. Your method should compute the absolute difference between the sum 
- * of the boys' integers and the sum of the girls' integers. The input could 
- * end with either a boy or girl; you may not assume that it contains an even 
- * number of names.
- */
 public void boyGirl(Scanner sc) {
     int boyCount = 0;
     int boySum = 0;

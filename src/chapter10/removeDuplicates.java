@@ -1,6 +1,3 @@
-/* Write a method removeDuplicates that takes as a parameter a sorted
- * ArrayList of Strings and that eliminates any duplicates from the list.
- */
 public void removeDuplicates(ArrayList<String> list) {
     ArrayList<String> temp = new ArrayList<String>();
 

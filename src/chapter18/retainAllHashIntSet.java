@@ -1,7 +1,3 @@
-/* Write a method in the HashIntSet class called retainAll that accepts 
- * another hash set as a parameter and removes all elements from this set that 
- * are not contained in the other set.
- */
 public void retainAll(HashIntSet set) {
     for(int i = 0; i < elementData.length; i++) {
         Node prev = null;

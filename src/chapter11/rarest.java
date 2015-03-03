@@ -1,8 +1,3 @@
-/* Write a method rarest that accepts a map whose keys are strings and whose 
- * values are integers as a parameter and returns the integer value that 
- * occurs the fewest times in the map. If there is a tie, return the smaller 
- * integer value. If the map is empty, throw an exception.
- */
 public int rarest(Map<String, Integer> map) {
     HashMap<Integer, Integer> hashmap = new HashMap<Integer, Integer>();
     int rarest = Integer.MAX_VALUE;

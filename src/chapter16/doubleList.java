@@ -1,6 +1,3 @@
-/* Write a method doubleList that doubles the size of a list by appending a 
- * copy of the original sequence to the end of the list.
- */
 public void doubleList() {
     if(front == null)
         return;

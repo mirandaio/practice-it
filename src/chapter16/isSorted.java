@@ -1,7 +1,3 @@
-/* Write a method isSorted that returns true if the list is in sorted 
- * (nondecreasing) order and returns false otherwise. An empty list is 
- * considered to be sorted.
- */
 public boolean isSorted() {
     if(front == null)
         return true;

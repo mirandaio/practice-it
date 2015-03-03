@@ -1,8 +1,3 @@
-/* Modify your ShowDesign class from the previous exercise into a new class 
- * ShowDesign2 that has a method named showDesign that accepts parameters for 
- * the window width and height and displays the rectangles at the appropriate 
- * sizes.
- */
 public class ShowDesign2 {
     public static void main(String[] args) {
         showDesign(300, 100);

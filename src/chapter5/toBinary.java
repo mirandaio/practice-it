@@ -1,7 +1,3 @@
-/* Write a method named toBinary that accepts an integer as a parameter and 
- * returns a string of that number's representation in binary. For example, 
- * the call of toBinary(42) should return "101010".
- */
 public String toBinary(int num) {
     if(num == 0)
         return "0";

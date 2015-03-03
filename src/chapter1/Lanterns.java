@@ -1,28 +1,3 @@
-/* Write a complete Java program in a class named Lanterns that generates the 
- * following three figures of output. Use static methods to show structure and 
- * eliminate redundancy in your solution.
- *     *****
- *   *********
- * *************
- *
- *     *****
- *   *********
- * *************
- * * | | | | | *
- * *************
- *     *****
- *   *********
- * *************
- *
- *     *****
- *   *********
- * *************
- *     *****
- * * | | | | | *
- * * | | | | | *
- *     *****
- *     *****
- */
 public class Lanterns {
     public static void main(String[] args) {
         printTwoTriangles();

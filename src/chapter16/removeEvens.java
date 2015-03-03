@@ -1,9 +1,3 @@
-/* Write a method removeEvens that removes the values in even-numbered indexes 
- * from a list, returning a new list containing those values in their original 
- * order. You are not allowed to create any new nodes or to change the values 
- * stored in data fields to solve this problem; You must solve it by 
- * rearranging the links of the list.
- */
 public LinkedIntList removeEvens() {
     LinkedIntList evens = new LinkedIntList();
     

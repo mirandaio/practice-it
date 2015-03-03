@@ -1,10 +1,3 @@
-/* Write a method that adds nodes until the binary tree is a "perfect" tree. A 
- * perfect binary tree is one where all leaves are at the same level. Another 
- * way of thinking of it is that you are adding dummy nodes to the tree until 
- * every path from the root to a leaf is the same length. A perfect tree's 
- * shape is exactly triangular and every branch node has exactly two children. 
- * Each node you add to the tree should store the value 0.
- */
 public void makePerfect() {
     int h = height();
     overallRoot = makePerfect(overallRoot, h);

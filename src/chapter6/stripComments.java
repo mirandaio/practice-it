@@ -1,7 +1,3 @@
-/* Write a method called stripComments that accepts a Scanner representing an 
- * input file containing a Java program as its parameter, reads that file, and 
- * then prints the file's text with all comments removed.
- */
 public void stripComments(Scanner sc) {
     boolean multiLineComment = false;
     

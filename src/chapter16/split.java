@@ -1,6 +1,3 @@
-/* Write a method split that rearranges the elements of a list so that all of 
- * the negative values appear before all of the non-negatives.
- */
 public void split() {
     if(front == null)
         return;

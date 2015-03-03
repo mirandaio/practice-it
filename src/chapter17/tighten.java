@@ -1,6 +1,3 @@
-/* Write a method tighten that eliminates branch nodes that have only one
- * child.
- */
 public void tighten() {
     overallRoot = tighten(overallRoot);
 }

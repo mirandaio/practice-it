@@ -1,6 +1,3 @@
-/* Write a method named showTwos that shows the factors of 2 in a given 
- * integer.
- */
 public void showTwos(int num) {
     int val = num;
     int count = 0;

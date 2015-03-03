@@ -1,8 +1,3 @@
-/* Write a method called interleave that accepts two ArrayLists of integers a1 
- * and a2 as parameters and inserts the elements of a2 into a1 at alternating 
- * indexes. If the lists are of unequal length, the remaining elements of the 
- * longer list are left at the end of a1.
- */
 public void interleave(ArrayList<Integer> a1, ArrayList<Integer> a2) {
     int size1 = a1.size();
     int size2 = a2.size();

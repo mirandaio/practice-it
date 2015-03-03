@@ -1,7 +1,3 @@
-/* Write a method longestSortedSequence that returns the length of the longest 
- * sorted sequence within a list of integers. If the list is empty, your 
- * method should return 0.
- */
 public int longestSortedSequence() {
     if(size == 0)
         return 0;

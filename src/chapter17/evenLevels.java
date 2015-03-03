@@ -1,7 +1,3 @@
-/* The method should make sure that all branches end on an even level. If a 
- * leaf node is on an odd level it should be removed from the tree. We will 
- * define the root as being on level 1.
- */
 public void evenLevels() {
     overallRoot = evenLevels(overallRoot, 1);
 }

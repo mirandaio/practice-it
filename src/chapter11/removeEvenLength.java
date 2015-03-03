@@ -1,6 +1,3 @@
-/* Write a method removeEvenLength that takes a Set of strings as a parameter
- * and that removes all of the strings of even length from the set.
- */
 public void removeEvenLength(Set<String> set) {
     LinkedList<String> holder = new LinkedList<String>();
 

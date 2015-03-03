@@ -1,6 +1,3 @@
-/* Modify the SlashFigure program from the previous exercise to produce a new 
- * program SlashFigure2 that uses a global constant for the figure's height.
- */
 public class SlashFigure2 {
     public static final int SIZE = 6;
     

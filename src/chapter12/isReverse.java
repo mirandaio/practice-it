@@ -1,8 +1,3 @@
-/* Write a recursive method isReverse that accepts two strings as a parameter 
- * and returns true if the two strings contain the same sequence of characters 
- * as each other but in the opposite order (ignoring capitalization), and 
- * false otherwise.
- */
 public boolean isReverse(String str1, String str2) {
     if(str1.length() != str2.length())
         return false;

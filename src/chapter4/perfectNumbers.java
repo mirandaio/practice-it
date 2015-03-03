@@ -1,9 +1,3 @@
-/* A "perfect number" is a positive integer that is the sum of all its proper 
- * factors (that is, factors including 1 but not the number itself). Write a 
- * static method perfectNumbers that takes an integer max as an argument and 
- * prints out all perfect numbers that are less than or equal to max.
- */
-
 // there are several improvements that can be made...
 public void perfectNumbers(int max) {
     System.out.print("Perfect numbers up to " + max + ":");

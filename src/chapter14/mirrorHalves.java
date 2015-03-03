@@ -1,12 +1,3 @@
-/* Write a method mirrorHalves that accepts a queue of integers as a parameter 
- * and replaces each half of that queue with itself plus a mirrored version of 
- * itself (the same elements in the opposite order). If your method is passed 
- * an empty queue, the result should be an empty queue. If your method is 
- * passed a null queue or one whose size is not even, your method should throw 
- * an IllegalArgumentException. You may use one stack or one queue (but not 
- * both) as auxiliary storage to solve this problem. Your code must run in 
- * O(n) time where n is the number of elements of the original queue.
- */
 public void mirrorHalves(Queue<Integer> q) {
     if(q == null || q.size() % 2 == 1)
         throw new IllegalArgumentException();

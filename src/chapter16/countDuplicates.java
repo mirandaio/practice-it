@@ -1,7 +1,3 @@
-/* Write a method countDuplicates that returns the number of duplicates in a 
- * sorted list. The list will be in sorted order, so all of the duplicates 
- * will be grouped together.
- */
 public int countDuplicates() {
     if(front == null)
         return 0;

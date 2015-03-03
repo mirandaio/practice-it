@@ -1,11 +1,3 @@
-/* Modify your MickeyBox program from the previous exercise into a new class 
- * MickeyBox2 so that the figure is drawn by a method called drawFigure. The 
- * method should accept two parameters: the Graphics g of the DrawingPanel on 
- * which to draw, and two ints specifying the (x, y) position of the top-left 
- * corner of the figure. Set your DrawingPanel's size to 450 x 150 pixels, and 
- * use your drawFigure method to place two figures on it. One figure should be 
- * at position (50, 25) and the other should be at position (250, 45).
- */
 public class MickeyBox2 {
     public static void main(String[] args) {
         DrawingPanel panel = new DrawingPanel(450, 150);

@@ -1,6 +1,3 @@
-/* Write a method named diceSum that prompts the user for a desired sum, then 
- * repeatedly rolls two six-sided dice until their sum is the desired sum.
- */
 public void diceSum() {
     Scanner in = new Scanner(System.in);
     System.out.print("Desired dice sum: ");

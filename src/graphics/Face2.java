@@ -1,8 +1,3 @@
-/* Modify your Face program from the previous exercise to draw the new output 
- * shown below. The window size should be changed to 520 x 180 pixels, and the 
- * faces' top-left corners are at (10, 30), (110, 30), (210, 30), (310, 30), 
- * and (410, 30).
- */
 public class Face2 {
     public static void main(String[] args) {
         DrawingPanel panel = new DrawingPanel(520, 180);
