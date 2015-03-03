@@ -1,5 +1,0 @@
-print equals
-print sticks
-print equals
-print sticks
-print equals
