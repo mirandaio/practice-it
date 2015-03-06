@@ -1,6 +1,26 @@
 Practice-it
 ===========
 
+Why are the solutions gone?
+---------------------------
+
+I have been getting several emails asking me what happened with the solutions
+to the Practice-It problems. Here is what happened. I was asked by Marty
+Stepp, the author of the Practice-It website, to remove the solutions from
+this GitHub repository.
+
+Even though I have written the code myself, Marty does not want me to share it
+on GitHub. He has threatened me with suspending my Practice-It account and
+post a message on his own website recommending technologies companies not to
+hire me if I don't remove the code of the solutions.
+
+Even though I believe some people were benefitting from studying the solutions
+when they were stuck, I have decided to remove them from this repository
+because I don't want to hurt my employability in the future.
+
+
+
+
 This is a repository where I put my solutions to 
 [Practice-It](http://practiceit.cs.washington.edu/practiceit) problems. If you
 have suggestions on how to improve these solutions by making them more 
