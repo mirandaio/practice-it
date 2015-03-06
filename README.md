@@ -14,9 +14,9 @@ on GitHub. He has threatened me with suspending my Practice-It account and
 post a message on his own website recommending technology companies not to
 hire me if I don't remove the code of the solutions.
 
-Even though I believe some people were benefitting from studying the solutions
-when they were stuck, I have decided to remove them from this repository
-because I don't want to hurt my employability in the future.
+I believe some people were benefitting from studying the solutions when they
+were stuck, I have decided to remove them from this repository because I don't
+want to hurt my employability in the future.
 
 Chapter 1: Introduction to Java Programming
 -------------------------------------------
