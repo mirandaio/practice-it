@@ -11,7 +11,7 @@ this GitHub repository.
 
 Even though I have written the code myself, Marty does not want me to share it
 on GitHub. He has threatened me with suspending my Practice-It account and
-post a message on his own website recommending technologies companies not to
+post a message on his own website recommending technology companies not to
 hire me if I don't remove the code of the solutions.
 
 Even though I believe some people were benefitting from studying the solutions
