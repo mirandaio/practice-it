@@ -1,23 +1,6 @@
 Practice-it
 ===========
 
-Why are the solutions gone?
----------------------------
-
-I have been getting several emails asking me what happened with the solutions
-to the Practice-It problems. Here is what happened. I was asked by Marty
-Stepp, the author of the Practice-It website, to remove the solutions from
-this GitHub repository.
-
-Even though I have written the code myself, Marty does not want me to share it
-on GitHub. He has threatened me with suspending my Practice-It account and
-post a message on his own website recommending technology companies not to
-hire me if I don't remove the code of the solutions.
-
-I believe some people were benefitting from studying the solutions when they
-were stuck. However, I have decided to remove them from this repository
-because I don't want to hurt my employability in the future.
-
 Chapter 1: Introduction to Java Programming
 -------------------------------------------
 
